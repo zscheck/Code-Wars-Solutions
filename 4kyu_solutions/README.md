@@ -1,0 +1,1 @@
+[Coordinates Validator](https://www.codewars.com/kata/5269452810342858ec000951) [-----] [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/4kyu_solutions/Coordinates_Validator.js)
