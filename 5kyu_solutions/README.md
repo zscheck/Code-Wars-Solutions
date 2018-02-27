@@ -6,6 +6,8 @@ Formatting a Number as a Price [Link](https://www.codewars.com/kata/5318f00b31b3
 
 Primes In Numbers [Link](https://www.codewars.com/kata/54d512e62a5e54c96200019e) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/5kyu_solutions/Primes_In_Numbers.js)
 
+Regex Password Validator [Link](https://www.codewars.com/kata/52e1476c8147a7547a000811) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/5kyu_solutions/Regex_Password_Validation.js)
+
 Simple Pig Latin [Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/5kyu_solutions/Simple_Pig_Latin.js)
 
 Sum of Pairs [Link](https://www.codewars.com/kata/54d81488b981293527000c8f) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/5kyu_solutions/Sum_Of_Pairs.js)
