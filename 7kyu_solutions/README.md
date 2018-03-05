@@ -9,3 +9,5 @@ How Many Are Smaller Than Me [Link](https://www.codewars.com/kata/56a1c074f87bc2
 List of Presents [Link](https://www.codewars.com/kata/5a84d485742ba347b90006b7) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/7kyu_solutions/List_Of_Presents.js)
 
 Simple string reversal II [Link](https://www.codewars.com/kata/simple-string-reversal-ii/train/javascript) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/7kyu_solutions/Simple_string_reversal_II.js)
+
+Convert a linked list to a string [Link](https://www.codewars.com/kata/convert-a-linked-list-to-a-string) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/7kyu_solutions/Convert_A_Linked_List_To_A_String.js)
