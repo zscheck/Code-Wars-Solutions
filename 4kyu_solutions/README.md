@@ -14,6 +14,8 @@ Next bigger number with the same digits [Link](https://www.codewars.com/kata/559
 
 Next smaller number with the same digits [Link](https://www.codewars.com/kata/next-smaller-number-with-the-same-digits) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/4kyu_solutions/Next_Smaller_Number_With_the_Same_Digits.js)
 
+Number Of Proper Fractions with Denominator d [Link](https://www.codewars.com/kata/number-of-proper-fractions-with-denominator-d) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/4kyu_solutions/Number_Of_Proper_Fractions_with_Denominator_d.js)
+
 Snail Sort [Link](https://www.codewars.com/kata/snail/javascript) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/4kyu_solutions/Snail.js)
 
 Sum Strings as Numbers [Link](https://www.codewars.com/kata/5324945e2ece5e1f32000370) ----- [solution](https://github.com/zscheck/Code-Wars-Solutions/blob/master/4kyu_solutions/Sum_Strings_as_Numbers.js)
